@@ -1,14 +1,7 @@
 # "Cosminho"
 
 [Osu! Profile](https://osu.ppy.sh/users/14086779)
-# [Cosminho 1.5]()
-No Mod (NM)
-![]()
-Double Time (DT)
-![]()
-Maniaa
-![]
-![]
+# [Cosminho 2.0]()
 
 # [Cosminho 1.0](https://drive.google.com/drive/folders/1f3tRo-J8HvQvzh7giBt0m1rfgJHa12Xx?usp=sharing)
 No Mod (NM)
