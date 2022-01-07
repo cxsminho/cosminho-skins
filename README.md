@@ -1,9 +1,9 @@
-[Osu! Profile](https://osu.ppy.sh/users/14086779)
+##### [My Profile on Osu!](https://osu.ppy.sh/u/14086779)
+
 # Cosminho 2.0
 
-### [No Mod (NM)](https://drive.google.com/u/0/uc?export=download&confirm=40TV&id=1-kM1QPzgVtk_UWDlsohU8Lqt-hIzWu8G)
+[No Mod (NM)](https://drive.google.com/u/0/uc?export=download&confirm=40TV&id=1-kM1QPzgVtk_UWDlsohU8Lqt-hIzWu8G)
 ![](https://osu.ppy.sh/ss/17323050/0934)
-### Double Time (DT)
 
 # Cosminho 1.0
 
@@ -14,4 +14,3 @@
 ### [Mania](https://drive.google.com/u/0/uc?id=1V3qu08F8dCcwIMh24XYFplgEq2qwGpG0&export=download)
 ![](http://osu.ppy.sh/ss/17076421/ab94)
 ![](https://osu.ppy.sh/ss/17076418/132f)
-
